@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+npm install --save @angular/animations @angular/common @angular/compiler @angular/core @angular/forms @angular/http @angular/platform-browser @angular/platform-browser-dynamic @angular/router core-js rxjs zone.js
+npm install --save-dev @angular/cli @angular/compiler-cli @angular/language-service @types/jasmine @types/jasminewd2 @types/node codelyzer jasmine-core jasmine-spec-reporter karma karma-chrome-launcher karma-cli karma-coverage-istanbul-reporter karma-jasmine karma-jasmine-html-reporter protractor ts-node tslint typescript
